@@ -1,7 +1,7 @@
 
 # About
 
-此项目是 vue + element-ui 构建的后台管理系统，是后台项目[node-elm](https://github.com/bailicangdu/node-elm) 的管理系统，所有的数据都是从服务器实时获取的真实数据，具有真实的注册、登陆、管理数据、权限验证等功能。
+此项目是 vue + element-ui 构建的后台管理系统，是后台项目的管理系统，所有的数据都是从服务器实时获取的真实数据，具有真实的注册、登陆、管理数据、权限验证等功能。
 
 
 # 说明
@@ -14,7 +14,7 @@
 
 >  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
->  传送门：[前端项目地址](https://github.com/bailicangdu/vue2-elm)  、 [后台系统地址](https://github.com/bailicangdu/node-elm)  、 [原生APP项目地址](https://github.com/bailicangdu/RN-elm)
+
 
 
 
@@ -27,7 +27,7 @@ vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui
 
 
 ```
-git clone https://github.com/bailicangdu/vue2-manage  
+git clone https://github.com/357758509/denglu.git  
 
 cd vue2-manage  
 
@@ -73,15 +73,8 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 - [x] 富文本编辑器 -- 完成
 
 
-# 部分截图
 
 
-<img src="https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/manage_home.png"/>
-
-<img src="https://github.com/bailicangdu/vue2-manage/blob/master/screenshots/manage_shop.png"/>
 
 
-# License
-
-[GPL](https://github.com/bailicangdu/vue2-manage/blob/master/COPYING)
 
